@@ -1,0 +1,180 @@
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\erayb\Desktop\Cini_Proje\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\Cini_Proje - Kopya\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\ödev\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\erayb\Desktop\ödev\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\ödev\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\Fevzi Çakmak\Desktop\ödev\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.Giris.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.MusteriGiris.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.MusteriKayit.resources
+C:\Users\erayb\Desktop\ödev_leptop\Cini_Proje\obj\Debug\Cini_Proje.SiparisVer.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Giris.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.MusteriGiris.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.MusteriKayit.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.SiparisVer.resources
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Giris.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.MusteriGiris.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.MusteriKayit.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.SiparisVer.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - Kopya\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Giris.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.MusteriGiris.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.MusteriKayit.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.SiparisVer.resources
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\Fevzi Çakmak\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\bin\Debug\Cini_Proje.exe.config
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\bin\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\bin\Debug\Cini_Proje.pdb
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Giris.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Menu.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.MusteriGiris.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.MusteriIslemleri.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.MusteriKayit.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.PersonelGiris.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.PersonelIslemleri.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.PersonelKayit.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Properties.Resources.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Siparisler.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.Urunler.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.SiparisVer.resources
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.exe
+C:\Users\erayb\Desktop\ödev_leptop - güncel\Cini_Proje\obj\Debug\Cini_Proje.pdb
